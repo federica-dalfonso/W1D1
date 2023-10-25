@@ -1,0 +1,104 @@
+@import url('https://fonts.googleapis.com/css2?family=Libre+Baskerville:wght@400;700&display=swap');
+
+body {
+    font-family: 'Libre Baskerville', serif;
+}
+
+.topbar {
+    text-align: center;
+}
+
+#logoimage {
+    width: 180px;
+    height: auto;
+    padding: 7px;
+}
+
+#firstline {
+    color: rgb(255, 214, 101);
+    background: rgb(255, 214, 101);
+    border: 0;
+    margin: 0;
+    height: 1px;
+}
+
+h3 {
+    background-color: rgba(251, 251, 197, 0.501);
+    margin: 0;
+    padding-top: 18px;
+    padding-bottom: 18px;
+    color: rgb(7, 92, 92);
+    font-size: 13px;
+}
+
+.maincontent {
+    margin: auto;
+    width: 700px;
+}
+
+.firstblock {
+    text-align: center;
+}
+
+#title {
+    font-size: 2.0em;
+}
+
+#subtitle {
+    text-align: left;
+}
+
+#pizzaimage {
+    border-radius: 2% 2% 2% 2%;
+    box-shadow: 5px 5px 7px #dedede;
+    height:480px;
+    width: 100%;
+    object-fit: cover;
+}
+
+#credits {
+    color: rgb(141, 140, 140);
+}
+
+.reference {
+    border-left: 1.5px solid rgb(255, 214, 101);
+    height: auto; 
+    padding-left: 10px;        
+}
+
+.featured {
+    margin-bottom: 0;
+    color: rgb(192, 110, 2);
+    font-weight: bold;   
+        
+}
+
+.secondblock {
+    margin-top: 60px;
+}
+
+hr {
+    color: skyblue ;
+    background: skyblue;
+    border: 0;
+    margin: 0;
+    height: 0.5px;
+}
+
+.boldtext {
+    font-weight: bold;
+}
+
+a {
+    color: rgb(7, 92, 92);
+}
+
+
+li {
+    padding: 6px;
+}
+
+ol {
+    margin-top: 8px;
+} 
+
